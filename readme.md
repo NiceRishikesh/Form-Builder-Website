@@ -52,7 +52,6 @@ This is a Form Management Application built with a MERN (MongoDB, Express, React
 4. Start the backend server using nodemon:
 
     ```sh
-    Copy code
     npx nodemon
 
 
